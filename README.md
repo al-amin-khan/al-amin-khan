@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm on a journey to become a full-stack web applic
 
 📫 I'm always open to connecting with like-minded developers and learning from the community. If you have any questions, ideas, or just want to chat, don't hesitate to get in touch with me:
 
+- Website: [alaminkhan.me](alaminkhan.me)
 - Email: [alaminkhan@outlook.com]()
 - LinkedIn: [https://www.linkedin.com/in/me-al-amin-khan/](me-al-amin-khan)
 
