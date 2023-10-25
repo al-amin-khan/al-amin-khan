@@ -18,17 +18,17 @@ Welcome to my GitHub profile! I'm on a journey to become a full-stack web applic
 
 #### The Tech and tools I Sail With -
 
-⚓ **Front-end:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Material-UI, TypeScript
+⚓ **Front-end:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Material-UI, TypeScript, Angular, JQuery
 
 🚢 **Back-end:** Node.js, Express, Java
 
-🛠️ **Tools:** VS Code, Git, GitHub, Postman
+🛠️ **Tools:** VS Code, Git, GitHub, Intellij Idea, Postman, Linus OS
 
 🛢 **Databases:** MySQL, PostgreSQL, MongoDB
 
 🛎️ **APIs:** REST
 
-🎨 **Design:** Figma, Sketch
+🎨 **Design:** Figma, Canva
 
 🐳 **Container:** Docker
 
@@ -36,9 +36,6 @@ Welcome to my GitHub profile! I'm on a journey to become a full-stack web applic
 
 🔧 Always armed with the latest tools and libraries and technologies.
 
-## My Projects
-
-👇 You'll find a collection of projects here that showcase my skills and interests. I love building web applications and experimenting with new ideas. Feel free to explore, contribute, or reach out for collaboration!
 
 ## Get in Touch
 
@@ -47,5 +44,10 @@ Welcome to my GitHub profile! I'm on a journey to become a full-stack web applic
 - Website: [alaminkhan.me](alaminkhan.me)
 - Email: [alaminkhan@outlook.com]()
 - LinkedIn: [https://www.linkedin.com/in/me-al-amin-khan/](me-al-amin-khan)
+
+## My Projects
+
+👇 You'll find a collection of projects here that showcase my skills and interests. I love building web applications and experimenting with new ideas. Feel free to explore, contribute, or reach out for collaboration!
+
 
 Let's code together and create something amazing! 🌟
