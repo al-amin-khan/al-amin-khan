@@ -14,9 +14,19 @@ Welcome to my GitHub profile! I'm on a journey to become a full-stack web applic
 
 🚀 Aspiring Full-Stack Developer | Enthusiast for Front-end and Back-end Technologies
 
+##### The Tech and tools I Sail With -
+
 ⚓ **Front-end:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Material-UI, TypeScript
 
-🚢 **Back-end:** Node.js, Express, MongoDB
+🚢 **Back-end:** Node.js, Express, Java
+
+🛠️ **Tools:** VS Code, Git, GitHub, Postman
+
+🛢 **Databases:** MySQL, PostgreSQL, MongoDB
+
+🛎️ **APIs:** REST
+
+🎨 **Design:** Figma, Sketch
 
 🐳 **Container:** Docker
 
