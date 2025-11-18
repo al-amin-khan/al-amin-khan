@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m growing into a full-stack web application de
 
 ### ⚓ Front-end
 
-JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Bootstrap, Material-UI
+JavaScript, TypeScript, React, NextJs, HTML, CSS, Tailwind CSS, Bootstrap, Material-UI
 
 ### 🚢 Back-end
 
@@ -60,18 +60,16 @@ REST
 
 ## 🌟 Featured Projects
 
-- **FastPay – Utility Bill Management Platform**  [Live Link: [FastPay](https://fastpay-bd.web.app/)  Repo: [FastPay](https://github.com/al-amin-khan/fastpay-client)]  
-   A web app to manage electricity, gas, water, and internet bills in one place with category filtering, saved accounts, and easy payments.  
-   Technologies: `React` `React Router` `Tailwind CSS` `Axios` `Firebase` `jsPDF` `jsPDF-AutoTable` `Swiper` `Lucide React` `React Hot Toast` `SweetAlert2`  
-
-- **Real-Time Attendance Sync Pipeline**  
-    Designed and implemented a real-time data sync pipeline from MySQL to SQL Server using Kafka & Debezium to reduce data lag and improve reporting.  
-    Technologies: `MySQL` `Debezium` `Kafka` `Kafka Connect` `MS SQL Server`  
+- **FastPay – Utility Bill Management Platform**  [Live Link: [FastPay](https://fastpay-bd.web.app/)  Repo: [FastPay](https://github.com/al-amin-khan/fastpay-client)]A web app to manage electricity, gas, water, and internet bills in one place with category filtering, saved accounts, and easy payments.Technologies: `React` `React Router` `Tailwind CSS` `Axios` `Firebase` `jsPDF` `jsPDF-AutoTable` `Swiper` `Lucide React` `React Hot Toast` `SweetAlert2`
+- **Real-Time Attendance Sync Pipeline**
+  Designed and implemented a real-time data sync pipeline from MySQL to SQL Server using Kafka & Debezium to reduce data lag and improve reporting.
+  Technologies: `MySQL` `Debezium` `Kafka` `Kafka Connect` `MS SQL Server`
 
 ---
+
 ## 📚 Currently Learning & Exploring
 
-- Advanced **TypeScript** patterns in React & Node
+- Advanced **TypeScript** patterns in React, NextJs & Node
 - **Docker** for local dev environments and deployment
 - Best practices for **clean architecture** and **API design**
 
@@ -87,9 +85,16 @@ I’m always open to connecting with developers, mentors, and collaborators.
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=al-amin-khan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-amin-khan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
 ## 🤝 Let’s Build Something
 
 👇 In my repos, you’ll find experiments, learning projects, and real-world tools I’m building.
 Feel free to explore, open issues, suggest improvements, or reach out for collaboration.
 
-Let’s code together and create something meaningful. 🌟  
+Let’s code together and create something meaningful. 🌟
