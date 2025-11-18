@@ -26,35 +26,35 @@ Welcome to my GitHub profile! I’m growing into a full-stack web application de
 
 ### ⚓ Front-end
 
-JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Bootstrap, Material-UI
+    JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Bootstrap, Material-UI
 
 ### 🚢 Back-end
 
-Node.js, Express
+    Node.js, Express
 
 ### 🛢 Databases
 
-MongoDB, MySQL, MS SQL Server, PostgreSQL
+    MongoDB, MySQL, MS SQL Server, PostgreSQL
 
 ### 💻 Operating Systems
 
-Windows, Windows Server 2019, Ubuntu, Oracle Linux, Raspberry Pi OS, DietPi
+    Windows, Windows Server 2019, Ubuntu, Oracle Linux, Raspberry Pi OS, DietPi
 
 ### 🛠 Tools
 
-VS Code, Git, GitHub, IntelliJ IDEA, Postman, Linux (WSL2 / servers)
+    VS Code, Git, GitHub, IntelliJ IDEA, Postman, Linux (WSL2 / servers)
 
 ### 🐳 Container
 
-Docker
+    Docker
 
 ### 🎨 Design
 
-Figma, Canva, Photoshop
+    Figma, Canva, Photoshop
 
 ### 🛎 APIs
 
-REST
+    REST
 
 ---
 
