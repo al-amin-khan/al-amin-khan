@@ -1,53 +1,95 @@
 ![1698239327189](image/README/1698239327189.png)
 
-# **Hello, World! 👋**
+# Hello, World! 👋
 
-### I'm **Al Amin Khan,**
+### I'm **Al Amin Khan**
 
-Welcome to my GitHub profile! I'm on a journey to become a full-stack web application developer, and I'm thrilled to share my progress and projects with you.
+**Jr. System Analyst • Aspiring Full-Stack Developer • Data Enthusiast**
 
-## About Me
+Welcome to my GitHub profile! I’m growing into a full-stack web application developer and I use this space to build, break, and learn in public.
 
-- 🎓 I'm a BSc in CSE graduate, currently exploring for jobs to move forward in technology of web development.
-- 💻 My passion for coding led me to explore the world of web development.
-- 🌐 I believe in the power of technology to solve problems and make the world a better place.
+---
 
-## What I Do
+## 👨‍💻 About Me
 
-🚀 Aspiring Full-Stack Developer | Enthusiast for Front-end and Back-end Technologies
+- 🎓 BSc in CSE graduate
+- 💼 Working as a **Jr. System Analyst** (hands-on with servers, databases, and internal tools)
+- 💻 I enjoy building web apps that solve **real-world problems** inside organizations
+- 🌱 Currently leveling up in **TypeScript**, **Express, Golang, Next.js, PostgreSQL, Prisma, Docker, Nginx and AI** **system design**, and **real-time data pipelines**
+- 🌐 I believe technology should make life simpler, faster, and more transparent
 
-#### The Tech and tools I Sail With -
+---
 
-⚓ **Front-end:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Material-UI, TypeScript, Angular, JQuery
+## 🚀 What I Do
 
-🚢 **Back-end:** Node.js, Express, Java
+**Aspiring Full-Stack Developer** with a strong foundation in both **front-end** and **back-end**, plus real experience dealing with **servers, databases, and infrastructure**.
 
-🛠️ **Tools:** VS Code, Git, GitHub, Intellij Idea, Postman, Linus OS
+### ⚓ Front-end
 
-🛢 **Databases:** MySQL, PostgreSQL, MongoDB
+JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Bootstrap, Material-UI
 
-🛎️ **APIs:** REST
+### 🚢 Back-end
 
-🎨 **Design:** Figma, Canva
+Node.js, Express
 
-🐳 **Container:** Docker
+### 🛢 Databases
 
-🔍 Always eager to learn and explore new technologies.
+MongoDB, MySQL, MS SQL Server, PostgreSQL
 
-🔧 Always armed with the latest tools and libraries and technologies.
+### 💻 Operating Systems
 
+Windows, Windows Server 2019, Ubuntu, Oracle Linux, Raspberry Pi OS, DietPi
 
-## Get in Touch
+### 🛠 Tools
 
-📫 I'm always open to connecting with like-minded developers and learning from the community. If you have any questions, ideas, or just want to chat, don't hesitate to get in touch with me:
+VS Code, Git, GitHub, IntelliJ IDEA, Postman, Linux (WSL2 / servers)
 
-- Website: [alaminkhan.me](alaminkhan.me)
-- Email: [alaminkhan@outlook.com]()
-- LinkedIn: [https://www.linkedin.com/in/me-al-amin-khan/](me-al-amin-khan)
+### 🐳 Container
 
-## My Projects
+Docker
 
-👇 You'll find a collection of projects here that showcase my skills and interests. I love building web applications and experimenting with new ideas. Feel free to explore, contribute, or reach out for collaboration!
+### 🎨 Design
 
+Figma, Canva, Photoshop
 
-Let's code together and create something amazing! 🌟
+### 🛎 APIs
+
+REST
+
+---
+
+## 🌟 Featured Projects
+
+- **FastPay – Utility Bill Management Platform** [Live Link: [FastPay](https://fastpay-bd.web.app/)  Repo: [FastPay](https://github.com/al-amin-khan/fastpay-client)]
+  A web app to manage electricity, gas, water, and internet bills in one place with category filtering, saved accounts, and easy payments.
+- Technologies: `React` `React Router` `Tailwind CSS` `Axios` `Firebase` `jsPDF` `jsPDF-AutoTable` `Swiper` `Lucide React` `React Hot Toast` `SweetAlert2`
+
+- **Real-Time Attendance Sync Pipeline**
+  `MySQL` `Debezium` `Kafka` `Kafka Connect` `MS SQL Server`
+  Designed and implemented a real-time data sync pipeline from MySQL to SQL Server using Kafka & Debezium to reduce data lag and improve reporting.
+
+---
+## 📚 Currently Learning & Exploring
+
+- Advanced **TypeScript** patterns in React & Node
+- **Docker** for local dev environments and deployment
+- Best practices for **clean architecture** and **API design**
+
+---
+
+## 📫 Get in Touch
+
+I’m always open to connecting with developers, mentors, and collaborators.
+
+- 🌐 Website: [alaminkhan.me](https://alaminkhan.me)
+- 📧 Email: [alaminkhan@outlook.com](mailto:alaminkhan@outlook.com)
+- 🔗 LinkedIn: [linkedin.com/in/me-al-amin-khan](https://www.linkedin.com/in/me-al-amin-khan/)
+
+---
+
+## 🤝 Let’s Build Something
+
+👇 In my repos, you’ll find experiments, learning projects, and real-world tools I’m building.
+Feel free to explore, open issues, suggest improvements, or reach out for collaboration.
+
+Let’s code together and create something meaningful. 🌟
