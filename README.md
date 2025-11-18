@@ -60,13 +60,13 @@ REST
 
 ## 🌟 Featured Projects
 
-- **FastPay – Utility Bill Management Platform** [Live Link: [FastPay](https://fastpay-bd.web.app/)  Repo: [FastPay](https://github.com/al-amin-khan/fastpay-client)]
-  A web app to manage electricity, gas, water, and internet bills in one place with category filtering, saved accounts, and easy payments.
-- Technologies: `React` `React Router` `Tailwind CSS` `Axios` `Firebase` `jsPDF` `jsPDF-AutoTable` `Swiper` `Lucide React` `React Hot Toast` `SweetAlert2`
+- **FastPay – Utility Bill Management Platform**  [Live Link: [FastPay](https://fastpay-bd.web.app/)  Repo: [FastPay](https://github.com/al-amin-khan/fastpay-client)]
+   A web app to manage electricity, gas, water, and internet bills in one place with category filtering, saved accounts, and easy payments.
+   Technologies: `React` `React Router` `Tailwind CSS` `Axios` `Firebase` `jsPDF` `jsPDF-AutoTable` `Swiper` `Lucide React` `React Hot Toast` `SweetAlert2`
 
 - **Real-Time Attendance Sync Pipeline**
-  `MySQL` `Debezium` `Kafka` `Kafka Connect` `MS SQL Server`
-  Designed and implemented a real-time data sync pipeline from MySQL to SQL Server using Kafka & Debezium to reduce data lag and improve reporting.
+    `MySQL` `Debezium` `Kafka` `Kafka Connect` `MS SQL Server`
+    Designed and implemented a real-time data sync pipeline from MySQL to SQL Server using Kafka & Debezium to reduce data lag and improve reporting.
 
 ---
 ## 📚 Currently Learning & Exploring
